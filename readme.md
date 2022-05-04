@@ -2,8 +2,13 @@
 
 This extension shows the tradingview chart in wealthsimple website.
 
-<details>
-<summary> <b>donate</b> </summary>
+- TODO: [Firefox Extension]()
+- TODO: [Chrome Extension]()
+
+
+![(wealthsimple tradingview)%](./assets/readme.png)
+
+<b>donate</b>
 <p>
 
 ```
@@ -13,13 +18,3 @@ bitcoin: bc1qj78jrgsemj7qhgmht4gjmuwz3shrzk3evnv6kd
 </summary>
 
 </p>
-</details>
-
-<p></p>
-
-- TODO: [Firefox Extension]()
-- TODO: [Chrome Extension]()
-
-
-![(wealthsimple tradingview)%](./assets/readme.png)
-
